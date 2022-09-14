@@ -1,0 +1,18 @@
+#include<iostream>
+
+using namespace std
+
+int mian()
+{
+	int a=24,b=4;
+	cout<<add(a,b)<<endl;
+	return 0;
+}
+
+int add(int a,int b)
+{
+	return a+b;
+}
+
+void empty()
+{}

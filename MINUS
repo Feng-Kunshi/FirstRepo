@@ -19,3 +19,8 @@ int minus2(int a,int b,int c)
 {
 	return a-b-c;
 }
+
+void minus1(int &b)
+{
+	b--;
+}

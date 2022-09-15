@@ -14,3 +14,8 @@ int main()
 	cout<<minus(a,b)<<endl;
 	return 0;
 }
+
+int minus2(int a,int b,int c)
+{
+	return a-b-c;
+}

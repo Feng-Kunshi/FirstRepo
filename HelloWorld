@@ -17,5 +17,5 @@ void print()
 
 int number()
 {
-	return1;
+	return 1;
 }

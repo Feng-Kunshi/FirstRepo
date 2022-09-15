@@ -12,5 +12,5 @@ void empty() {}
 
 void print()
 {
-	cout<<b<<endl;
+	cout<<a<<endl;
 }
